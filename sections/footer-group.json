@@ -38,6 +38,18 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_PAhfTz": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Legal",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_PAhfTz"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": false,
